@@ -5,7 +5,6 @@ output: html_document
 
 ## Summary 
 
-Rapeephan Duangjanchot completed bachelor’s (degree) program at the Department of Biotechnology, Faculty of Science, Mahidol University in 2019. Her senior project topic is ‘Markerless deletion of an enterotoxin gene cluster in *Bacillus cereus*. She currently studies at the Department of Medical bioinformatics, Faculty of Medicine Siriraj Hospital, Mahidol University. 
 
 ## Contact Info
 109 village No.8, Thamaka Sub-district, Thamaka District, Kanchanaburi
