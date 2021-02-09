@@ -21,6 +21,7 @@ Medium: @rapeephannam
 - SnapGene
 - Minitab  
 
+
 ### Research skills 
 
 - Aseptic techniques for cultivation of plant and microbial culture
