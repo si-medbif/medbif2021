@@ -49,8 +49,8 @@ ht <- hux(
 ht %>% 
   set_bold(1, everywhere) %>%
   set_bottom_border(1, everywhere)  %>%
-  set_right_border(everywhere, 1, brdr(3, "solid", "black")) %>%
-  set_right_border(everywhere, 2, brdr(3, "solid", "black"))
+  set_right_border(everywhere, 1, brdr(2, "solid", "black")) %>%
+  set_right_border(everywhere, 2, brdr(2, "solid", "black"))
 
 
 ```
