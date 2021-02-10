@@ -3,8 +3,11 @@ title: "Rapeephan Duangjanchot"
 output: html_document
 ---
 
+![](Nam.jpg)
+
 ## Summary 
 
+Rapeephan Duangjanchot completed bachelor’s (degree) program at the Department of Biotechnology, Faculty of Science, Mahidol University in 2019. Her senior project topic is ‘Markerless deletion of an enterotoxin gene cluster in *Bacillus cereus*. She is currently studying at the Department of Medical bioinformatics, Faculty of Medicine Siriraj Hospital, Mahidol University. 
 
 ## Contact Info
 109 village No.8, Thamaka Sub-district, Thamaka District, Kanchanaburi
@@ -28,3 +31,26 @@ Medium: @rapeephannam
 transformation and gel electrophoresis)
 - Operation of bioprocessing units (e.g. bench-scale bioreactor, centrifuge, filter 
 press, homogenizer, distillation and double-effect evaporator) 
+
+## Education
+
+```{r pressure, echo=FALSE, message=FALSE}
+
+library(huxtable)
+library(dplyr) 
+ht <- hux(
+  Year =c('2020 - present','2016 - 2019'),
+  Degree = c('Master of Science', 'Bachelor of Science'),
+  Institute = c('Department of Medical bioinformatics, Faculty of Medicine Siriraj Hospital, Mahidol University','Department of Biotechnology, Faculty of Science, Mahidol University, Thailand'),
+  add_colnames = TRUE
+)
+
+
+ht %>% 
+  set_bold(1, everywhere) %>%
+  set_bottom_border(1, everywhere)  %>%
+  set_right_border(everywhere, 1, brdr(3, "solid", "black")) %>%
+  set_right_border(everywhere, 2, brdr(3, "solid", "black"))
+
+
+```
