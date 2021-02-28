@@ -3,7 +3,7 @@
 
 ## Summary
 
-Arissara is a master's student in medical bioinformatics with a biology background. she has experience in proteomic analysis of three genera of pit viper venoms in Thailand and animal cell culture. 
+Arissara is a master's student in medical bioinformatics with a biology background. She has experience in proteomic analysis of three genera of pit viper venoms in Thailand and animal cell culture. 
 
 ## Contact Info
 
