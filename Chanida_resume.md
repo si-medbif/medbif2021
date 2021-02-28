@@ -1,6 +1,6 @@
 
 # Chanida Limthamprasert, BSc.
-![Profile Image](Profile.jpg)
+![Profile Image](Profile.JPG)
 
 
 ## Summary
