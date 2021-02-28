@@ -1,8 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
 # Chanida Limthamprasert, BSc.
 ![Profile Image](Profile.jpg)
 
