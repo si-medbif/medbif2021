@@ -1,6 +1,6 @@
 # Chonnikarn Charoenpanich
 
-![](o - Copy@0.25x.png)
+![](pic.png)
 
 
 ## Summary
