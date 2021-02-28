@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # Chonnikarn Charoenpanich
 
 ![](o - Copy@0.25x.png)
@@ -20,7 +15,7 @@ Chonnikarn Charoenpanich graduated from Department of Biology, Faculty of Scienc
 - Medium: @khongkwancc
 
 
-## Technical Skills
+## Skills
 
 | Category | Skills |
 |----------|:----------|
