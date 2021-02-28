@@ -4,7 +4,7 @@ output:
   pdf_document: default
 ---
 # Chanida Limthamprasert, BSc.
-![Profile Image](C:\Users\Nut\Desktop\Profile.jpg)
+![Profile Image](Profile.jpg)
 
 
 ## Summary
