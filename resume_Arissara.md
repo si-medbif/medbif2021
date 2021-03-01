@@ -1,5 +1,5 @@
 # Arissara Tubtimyoy
-![](image\pang.jpg)
+![](pang.png)
 
 ## Summary
 
