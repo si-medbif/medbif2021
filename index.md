@@ -5,7 +5,7 @@
 |                    | [Resume](Iyarace/iyarace.md) |
 |          |
 | Chonnikarn Charoenpanich | Email: chonnikarn.cha@student.mahidol.ac.th |
-|                          | [Resume](Chonnokarn/Chonnikarn.md) |
+|                          | [Resume](Chonnikarn/Chonnikarn.md) |
 |          |
 | Rapeephan Duangjanchot | Email: rapeephan.duang@gmail.com |
 |                        | [Resume](resume.md) |
