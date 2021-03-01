@@ -24,6 +24,7 @@ Medium: @arissara-pang153
 
 - Animal cell culture
 - PCR
+- Bradford assay
 - Gel electrophoresis: SDS-PAGE
 - In-gel digestion
 - Enzyme-linked immunosorbent assays (ELISA)
