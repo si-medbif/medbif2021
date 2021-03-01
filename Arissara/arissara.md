@@ -3,7 +3,7 @@
 
 ## Summary
 
-Arissara is graduated with a bachelor’s degree in biology from the Faculty of Science, Mahidol University. Currently, she is studying for a master's degree in medical bioinformatics at the Faculty of Medicine Siriraj Hospital, Mahidol University. Her senior project is about proteomic analysis of three genera of pit viper venoms in Thailand. 
+Arissara graduated with a bachelor’s degree in biology from the Faculty of Science, Mahidol University. Currently, she is studying for a master's degree in medical bioinformatics at the Faculty of Medicine Siriraj Hospital, Mahidol University. Her senior project is about proteomic analysis of three genera of pit viper venoms in Thailand. 
 
 ## Contact Info
 
