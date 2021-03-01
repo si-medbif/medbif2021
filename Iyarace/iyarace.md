@@ -1,5 +1,5 @@
 # Iyarace Khampakdee
-![](image/nay.jpg)
+![](iyarace.jpg)
 
 ## Summary
 My name is Iyarace Khampakdee. I finished my Bachelor of Science Information Technology in 2019. After a one year of helping my family business, I decided to start my journey in the medical field by joined master of science in Medical Bioinformatics at the Faculty of Medicine Siriraj Hospital, Mahidol University. It has been almost half a year now and I keep discover so many new things. Further more, I decided to step out of my comfort zone and start learning about 3rd generation sequencing. As I have been in the different back ground, I still have many things to catch up as well as trying deliver what it takes to be here.
