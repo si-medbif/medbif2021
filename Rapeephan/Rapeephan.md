@@ -1,7 +1,7 @@
 Rapeephan Duangjanchot
 ======================
 
-![](Nam.jpg)
+![](Rapeephan.jpg)
 
 Summary
 -------
