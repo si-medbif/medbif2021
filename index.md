@@ -8,10 +8,10 @@
 |                          | [Resume](Chonnikarn/Chonnikarn.md) |
 |          |
 | Rapeephan Duangjanchot | Email: rapeephan.duang@gmail.com |
-|                        | [Resume](resume.md) |
+|                        | [Resume](Rapeephan/Rapeephan.md) |
 |          |
 | Arissara Tubtimyoy | Email: arissara.pang153@gmail.com |
-|                    | [Resume](https://github.com/pangarissara/medbif2021/blob/main/resume_Arissara.md) |
+|                    | [Resume](Arissara/arissara.md) |
 |          |
 | Chanida Limthamprasert | Email: chanida.limt@gmail.com |
 |                        | [Resume](https://github.com/Chanidanut/medbif2021/blob/main/Chanida_resume.md) |
