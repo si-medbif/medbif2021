@@ -2,10 +2,10 @@
 | Students | Contact Info |
 |----------|----------|
 | Iyarace Khampakdee | Email: iyarace.n@gmail.com |
-|                    | [Resume](iyarace_khampakdee.md) |
+|                    | [Resume](Iyarace/iyarace.md) |
 |          |
 | Chonnikarn Charoenpanich | Email: chonnikarn.cha@student.mahidol.ac.th |
-|                          | [Resume](Chonnikarn.md) |
+|                          | [Resume](Chonnokarn/Chonnikarn.md) |
 |          |
 | Rapeephan Duangjanchot | Email: rapeephan.duang@gmail.com |
 |                        | [Resume](resume.md) |
