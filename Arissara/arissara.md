@@ -1,5 +1,5 @@
 # Arissara Tubtimyoy
-![](pang.png)
+![](arissara.png)
 
 ## Summary
 
@@ -31,7 +31,7 @@ Medium: @arissara-pang153
 
 ## Experience
 
-2017: Laboratory intern (3 months) at Department of Molecular Tropical Medicine and Genetics,Faculty of Tropical Medicine, Mahidol University, Thailand 
+2017: Laboratory intern (3 months) at Department of Molecular Tropical Medicine and Genetics, Faculty of Tropical Medicine, Mahidol University, Thailand 
 
 ## Education
 
