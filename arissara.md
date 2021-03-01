@@ -1,5 +1,5 @@
 # Arissara Tubtimyoy
-![](pang.png)
+![](arissara.png)
 
 ## Summary
 
