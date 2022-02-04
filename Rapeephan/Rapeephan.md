@@ -1,7 +1,7 @@
 Rapeephan Duangjanchot
 ======================
 
-![](Rapeephan.jpg)
+<img src="Rapeephan.jpg" width="500px" />
 
 Summary
 -------
