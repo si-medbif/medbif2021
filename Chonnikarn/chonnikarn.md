@@ -1,7 +1,6 @@
 # Chonnikarn Charoenpanich
 
-![](chonnikarn.png)
-
+<img src="chonnikarn.jpg" width="500px" />
 
 ## Summary
 Chonnikarn Charoenpanich graduated from Department of Biology, Faculty of Science, Mahidol University. Currently, she is studying her master degree at Department of Medical Bioinformatics, Faculty of Medicine Siriraj Hospital, Mahidol University.
