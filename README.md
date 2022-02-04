@@ -9,7 +9,7 @@
 <div align="center" ><a href="Iyarace/iyarace.md">Resume</a></div>
 <br>
 
-<div align="center"><img src="Chonnikarn/chonnikarn.png" width="200px" height="250px" /></div>
+<div align="center"><img src="Chonnikarn/chonnikarn.jpg" width="200px" /></div>
 
 **<div align="center">Chonnikarn Charoenpanich</div>**
 <div align="center">Email: chonnikarn.cha@student.mahidol.ac.th</div>
