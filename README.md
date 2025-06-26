@@ -5,7 +5,7 @@
 <div align="center"><img src="Iyarace/iyarace.jpg" width="200px" /></div>
 
 **<div align="center">Iyarace Khampakdee</div>**
-<div align="center">Email: iyarace.n@gmail.com</div>
+<div align="center">Email: </div>
 <div align="center" ><a href="Iyarace/iyarace.md">Resume</a></div>
 <br>
 
